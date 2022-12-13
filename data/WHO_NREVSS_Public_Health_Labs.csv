@@ -1,0 +1,10 @@
+"*Beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update, FluView.  Data presented from public health laboratories include the weekly total number of specimens tested, the number of positive influenza tests, and the number by influenza virus type, subtype, and influenza B lineage."
+REGION TYPE,REGION,SEASON_DESCRIPTION,TOTAL SPECIMENS,A (2009 H1N1),A (H3),A (Subtyping not Performed),B,BVic,BYam,H3N2v
+States,Massachusetts,Season 2015-16,356,146,8,0,6,25,9,0
+States,Massachusetts,Season 2016-17,485,6,312,0,1,0,4,0
+States,Massachusetts,Season 2017-18,491,31,156,0,2,0,2,0
+States,Massachusetts,Season 2018-19,828,432,166,11,3,0,0,0
+States,Massachusetts,Season 2019-20,681,324,30,1,20,5,0,0
+States,Massachusetts,Season 2020-21,564,0,0,0,0,0,0,0
+States,Massachusetts,Season 2021-22,752,0,155,3,0,0,0,0
+States,Massachusetts,Season 2022-23,17,0,3,0,0,0,0,0
